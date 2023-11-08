@@ -11,6 +11,4 @@ Made using HTML, Css
 <h2>Screenshot</h2>
 
 ![](ekran.gif)
-# Holiday-Web-Study-Project
-# Holiday-Web-Study
-# Holiday-Web-Study-Project
+
